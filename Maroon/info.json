@@ -1,0 +1,12 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "name": "Helpless Roles Manager",
+    "description": "Manages the helpless role, which prevents write-access to the #help channel",
+    "author": [
+        "Kojillama"
+    ],
+    "min_bot_version": "3.5.0",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}
